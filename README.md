@@ -1,3 +1,5 @@
+NEW: The wiki has been updated and moved to https://github.com/gbif-norway/helpdesk/wiki. This repository is now archived.
+
 # gbif.no infrastructure
 
 [The wiki](https://github.com/gbif-norway/infrastructure/wiki) contains information about GBIF Norway's infrastructure and workflow
